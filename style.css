@@ -1,0 +1,33 @@
+body {
+    background-color:red;
+}
+
+#container {
+    width: 800px;
+    margin: auto;
+    background-color:deeppink;
+}
+
+header {
+    padding: 40px;
+    height: 80px;
+    color: white
+}
+
+nav {
+    padding: 8px 40px;
+    background-color:white;
+    color:navajowhite;
+}
+
+article {
+    padding: 40px;
+    min-height : 400px;
+}
+
+footer {
+    padding: 40px;
+    height: 40px;
+    background-color:maroon;
+    color: white;
+}
